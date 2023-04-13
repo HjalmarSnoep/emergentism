@@ -2,7 +2,7 @@
   <dt>TLDR</dt>
   <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content, these summaries written by GPT3.5, because the author recognises the tendency of his comtemporaries to feel he is wordy and lenghty.</dd>
    <dt>TW;DW<?dt>
- <dd>Too Short; Didn't Want, is the opposite of TLDR or.. the original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
+ <dd>Too Short; Didn't Want, is the opposite of TLDR. The original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
 </dl>
 
 
