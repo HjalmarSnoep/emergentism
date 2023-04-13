@@ -66,8 +66,44 @@ In all these cases, emergentism recognizes that religion, language, and art are 
 
 ## Trauma
 ### TLDR
+Emergentism is a philosophical worldview that recognizes knowledge and understanding as unattainable goals, evolving through collective efforts from diverse perspectives. It acknowledges biases, including cultural, parental, ancestral, and personal traumas, which can influence perspectives. However, emergentism emphasizes self-awareness, critical thinking, and mindfulness to mitigate biases. Biases are inherent in human cognition, but an emergentist can strive to minimize their impact by being transparent, acknowledging limitations, and seeking feedback from diverse perspectives. By doing so, emergentists can make meaningful contributions while actively mitigating biases.
 
 ### TW;DW
+Emergentism, as a philosophical perspective or worldview, recognizes
+that knowledge and understanding are ultimately a unattainable goal and 
+necessarily evolves through collective efforts of people
+from different cultures, backgrounds, and perspectives. 
+It acknowledges that biases, including cultural or ancestral trauma, can influence an individual's perspectives 
+and contributions. However, emergentism also emphasizes the importance of self-awareness and critical thinking.
+
+A trauma is defined as a event that has made a lasting change in the likes/dislikes of a group, individual or culture.
+There are three types of trauma:
+-cultural
+Examples of cultural trauma are, the plight of the enslaved, dislodged and then wandering Jews and their insistence of Israel being Kanaan and the conflict with the original inhabitants that oppose them.
+Or the Finnish intranslatable "sisu", which is an attitude of pluckiness and grittiness, which is a cultural reaction to many wars and invasions.
+
+-parental trauma
+Since a child is educated by the trinity of parents, siblings/peers and educators, the influence of a trauma in any of these pillars is enormous. A parent (or sibling or teacher) with a deep personal trauma can create trauma in dependents because of overcompensation or other coping methods.
+
+-ancestral
+Beyond culture, humand have been faced with many dangers that might be encoded in DNA, like a fear of snakes, dark, spiders etc.
+These DNA changes might be epigenetical or genetical in nature.
+
+-personal
+A individual human may go through obvious trauma like a car accident or a single terrible happening that may take a long time to process including flashbacks, subtle trauma like a rejection that changes the way the self is seen without anyone noticeable effect on beheviour directly, or commplex trauma of small wounds to the psyche often repeated. These types of trauma also exist for Cultures and ancestors. combinations of these types of traumas can last enormously long.
+
+An emergentist may accept that they may not be able to completely shed their biases, 
+including cultural or ancestral trauma, but they can strive to be aware of them (all the time knowing that complete awarenss of them is impossible and any such idea must be acepted as inevitable) and 
+actively work to mitigate their influence without the hope of ever succeeding completely but maybe succeeding enough. 
+Also the responsibility of "getting it right" is shared with many, many others and this creates a freedom to adapt the understanding of emergentism to the needs of the moment for a society or individual.
+
+A great tool is mindfulness, but since this has become a quite vague term, I will explain what I mean with this.
+It involves engaging in introspection, examining one's own assumptions and biases, not repressing but feeling emotions, regardless of them making sense, not repressing any thoughts but also not engaging with them, believing them, identifying with them or expanding on them, and being open to feedback and perspectives from others. It may also involve seeking diverse sources of information and engaging in collaborative efforts with individuals from different backgrounds to gain a more holistic and inclusive understanding of complex issues.
+
+Additionally, an emergentist may recognize that biases are an inherent part of human cognition and that complete objectivity is unattainable. 
+However, they can strive to minimize the impact of biases on their contributions by being transparent about their perspectives, acknowledging potential limitations, and subjecting their ideas to rigorous scrutiny and feedback from a diverse range of perspectives.
+
+An emergentist may acknowledge the presence of biases, including cultural or ancestral trauma, and strive to be self-aware, open to diverse perspectives, and transparent about their perspectives and limitations. By doing so, they can make meaningful contributions while actively mitigating the influence of biases on their work.
 
 ## License
 ### TLDR
