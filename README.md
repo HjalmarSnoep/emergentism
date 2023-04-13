@@ -1,13 +1,13 @@
 <dl>
   <dt>TLDR</dt>
-  <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content</dd>
+  <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content, these summaries written by GPT3.5, because the author recognises the tendency of his comtemporaries to feel he is wordy and lenghty.</dd>
    <dt>TW;DW<?dt>
  <dd>Too Short; Didn't Want, is the opposite of TLDR or.. the original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
 </dl>
 
 
 # emergentism
-## TLDR - All Summaries written by GPT3.5:
+## TLDR 
 Emergentism challenges reductionism by embracing complexity and recognizing the subjective nature of reality shaped by cultural conditioning. It can be seen as a scientific attitude, a non-magical holistic approach to religion, a cinematic/artistic form, or an architectural movement. It views religion, language, and art as ways of preserving and distributing cultural information. The image of Yggdrasil symbolizes the interconnectedness of different cultural conditioning. Language is fundamental to human culture and communication, while religion serves as a way of preserving cultural information. Emergentism emphasizes the subjective nature of reality and challenges absolute truths.
 
 
