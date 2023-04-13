@@ -50,7 +50,7 @@ In the branches of Yggdrasil lay nine worlds that were constanly at war with eac
 
 
 ## Religion, culture, language and art
-### TLDR - Summary written Chat GPT3.5:
+### TLDR
 Emergentism sees religion, language, and art as interconnected means of preserving and distributing cultural information. Religion involves belief systems, rituals, and practices passed down through generations. Language is a fundamental aspect of human culture, facilitating communication and symbolizing information. Art reflects cultural context, conveying complex ideas and emotions. These forms of expression are not isolated, but intertwined and shaped through interactions among individuals and communities. They serve as repositories of cultural information, shaping identities, beliefs, and practices. Art can also bridge gaps between different societies. Emergentism recognizes the dynamic and evolving nature of these phenomena in shaping societies and cultures.
 
 ### TW;DW
