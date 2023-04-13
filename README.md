@@ -9,7 +9,8 @@
 # emergentism
 ## TLDR 
 Emergentism is a lot of things, but most of all it is not a copyrighted work. Mostly because this idea is not finished, it's wrong and it can never be finished and will always be wrong.
-Is emphasis is on entropy as an undeniable main force in the universe (second law of thermodynamics, Kali). And biological complexity deriving from very simple opposing forces (strange attractors from linear equstions, see visual proof repository by same author) and the hallucination of reality by "substantialising" or grouping similar phenomena into "things" and "ëvents", that are felt to be undeniable. Deriving abstract reasoning from the assumption of this undeniability created time, space and a person (an I). This creates an ego as a public persona. 
+
+Its emphasis is on entropy as an undeniable main force in the universe (second law of thermodynamics, Kali). And biological complexity deriving from very simple opposing forces (strange attractors from linear equstions, see visual proof repository by same author) and the hallucination of reality by "substantialising" or grouping similar phenomena into "things" and "ëvents", that are felt to be undeniable. Deriving abstract reasoning from the assumption of this undeniability created time, space and a person (an I). This creates an ego as a public persona. 
 This is the makeup of aa shared hallucination. Shared by a culture and in some regards by the whole human race. 
 It is an artifact of the make up of the human brain on the one hand and physiological makeup which requires working together as individuals and created communication as a survival tool.
 It answers the [big philisophical question](big philisophical questions) in rather unique ways. You can Click on these kinds of links to end up in the wiki of this repositoriy and explore further.
