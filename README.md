@@ -113,7 +113,7 @@ The use of Creative Commons license can help facilitate the exchange of ideas, e
 
 In summary, a Creative Commons license can be significant for emergentism as it aligns with the collaborative and inclusive nature of this worldview, allowing for the open exchange of ideas and fostering a sense of collective effort towards the ongoing development of knowledge and understanding.
 
-### further explration:
+### further exploration:
 - the big philosophical questions
  - Who started it? ( concept of causality, kosmogonies)
  - Are we going to make it? (existential concerns about the meaning and purpose of life,  human nature and the potential for survival or progress is survival the point, is there a point?)
