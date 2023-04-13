@@ -114,12 +114,12 @@ The use of Creative Commons license can help facilitate the exchange of ideas, e
 In summary, a Creative Commons license can be significant for emergentism as it aligns with the collaborative and inclusive nature of this worldview, allowing for the open exchange of ideas and fostering a sense of collective effort towards the ongoing development of knowledge and understanding.
 
 ### further exploration:
-- the big philosophical questions
- - Who started it? ( concept of causality, kosmogonies)
- - Are we going to make it? (existential concerns about the meaning and purpose of life,  human nature and the potential for survival or progress is survival the point, is there a point?)
- - Where are we going to put it? (ethics, social organization, and the allocation of resources)
- - Who's going to clean up? (responsibility, accountability, and stewardship, ethics, environmentalism, and the ethical and social responsibility, and the importance of service.)
- - Is it serious? ( meaning, truth, and significance and the hallucination of reality and self, non-duality, the universe as play)
+- the five big philosophical questions:
+      - Who started it? ( concept of causality, kosmogonies)
+      - Are we going to make it? (existential concerns about the meaning and purpose of life,  human nature and the potential for survival or progress is survival the point, is there a point?)
+      - Where are we going to put it? (ethics, social organization, and the allocation of resources)
+      - Who's going to clean up? (responsibility, accountability, and stewardship, ethics, environmentalism, and the ethical and social responsibility, and the importance of service.)
+      - Is it serious? ( meaning, truth, and significance and the hallucination of reality and self, non-duality, the universe as play)
 
 - process of integration and synthesis of other ways of other viewpoints.
 - Intelligence beyond the species animal intelligence, swarm intelligence, AI and the future of thought and information
