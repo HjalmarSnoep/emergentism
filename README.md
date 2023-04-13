@@ -1,6 +1,24 @@
+<dl>
+  <dt>TLDR</dt>
+  <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content</dd>
+   <dt>TW;DW<?dt>
+ <dd>Too Short; Didn't Want, is the opposite of TLDR or.. the original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
+</dl>
+
+
 # emergentism
+## TLDR - All Summaries written by GPT3.5:
+Emergentism challenges reductionism by embracing complexity and recognizing the subjective nature of reality shaped by cultural conditioning. It can be seen as a scientific attitude, a non-magical holistic approach to religion, a cinematic/artistic form, or an architectural movement. It views religion, language, and art as ways of preserving and distributing cultural information. The image of Yggdrasil symbolizes the interconnectedness of different cultural conditioning. Language is fundamental to human culture and communication, while religion serves as a way of preserving cultural information. Emergentism emphasizes the subjective nature of reality and challenges absolute truths.
+
+
+## expressions of emergentism
+### TLDR:
+Emergentism is a multifaceted concept that can be seen as a worldview, scientific attitude, religion, or artform. It challenges the idea of factual reality, acknowledging the symbolic nature of human thinking. Cultural conditioning shapes our perception of reality, including concepts of right and wrong, truth and falsehood. Yggdrasil, a mythical tree in Norse mythology, symbolizes emergentism with roots representing fear of dissolution and branches representing incompatible cultural conditioning. Emergentism invites us to embrace being wrong, acknowledge complexity, and constantly evolve our understanding.
+
+### TW;DW
 Emergentism is a lot, but most of all it is not a copyrighted work, mostly because this idea is not finished, it´s wrong and it can never be finished and will always be wrong..
 
+- It can be seen as a worldview, where everything that humans do or are involved in is an expression of emergentism.
 - It can be seen as scientific attitude to reduce reductionism by embracing complexity
 - It can be seen as a religion (a nong-magical wholisme)
 - It can be seen as a artform
@@ -30,17 +48,12 @@ The roots of the tree lie in Niflheim, a cold place where dead warriors go, that
 
 In the branches of Yggdrasil lay nine worlds that were constanly at war with eacht other. This is a recognistion of people grouping together and culturally conditioning each other, but the cultural conditioning turning out to be incompatible and the people in e particular "world" holding their conditioning as "true" and "true" in high regard.
 
-## Summary written Chat GPT3.5:
-Emergentism is a way of looking at reality that challenges reductionism, which is the belief that everything can be explained by breaking it down into smaller parts. Emergentism acknowledges that reality is complex and cannot be fully understood through reductionist approaches.
 
-Emergentism can be seen in different ways, such as a scientific attitude that embraces complexity, a cinematic stream of thought influenced by movies like The Matrix, a non-magical holistic approach to religion, a graphic art form that combines painting and AI-augmented imagery, or an architectural movement inspired by biomorphism.
+## Religion, culture, language and art
+### TLDR - Summary written Chat GPT3.5:
+Emergentism sees religion, language, and art as interconnected means of preserving and distributing cultural information. Religion involves belief systems, rituals, and practices passed down through generations. Language is a fundamental aspect of human culture, facilitating communication and symbolizing information. Art reflects cultural context, conveying complex ideas and emotions. These forms of expression are not isolated, but intertwined and shaped through interactions among individuals and communities. They serve as repositories of cultural information, shaping identities, beliefs, and practices. Art can also bridge gaps between different societies. Emergentism recognizes the dynamic and evolving nature of these phenomena in shaping societies and cultures.
 
-At its core, emergentism challenges the notion of absolute truths or factual reality. It recognizes that how we perceive and understand reality is subjective and influenced by cultural conditioning. For example, the language we use to communicate and the concepts of right and wrong, true and false, are cultural constructs that shape our perception of reality.
-
-The image of Yggdrasil, a mythical tree in Norse mythology, is considered one of the first emergentist images. It symbolizes the interconnectedness of different worlds or cultural conditioning, where different groups of people may have incompatible beliefs that they hold as true. It also reflects the fear of death and dissolution, which has been represented in different ways in different cultures throughout history.
-
-
-# Religion, culture, language and art
+### TW;DW
 Emergentism views religion, language, and art as ways in which information is preserved and distributed throughout history or within a society or culture. Here's a brief explanation for each aspect:
 
 Religion: Religion often involves belief systems, rituals, and practices that are passed down through generations and shape the worldview, values, and behaviors of a community. These beliefs and practices are typically distributed (evangelism and initiation) among the members of the community through oral traditions, scriptures, teachings, ceremonies, and other means. Religion can serve as a way of preserving and transmitting cultural information, such as moral codes, explanations of the natural world (kosmogony), and ideas about hoe to view life, a possible meaning of life (that created cultural patterns that are viewed as beneficial) and an attitude toward life and death, like the possible existence of an afterlife..
@@ -49,4 +62,5 @@ Language: Language is a fundamental aspect of human culture and communication. A
 
 Art: Art, in its various forms such as visual arts, music, literature, and dance, often reflects the cultural, social, and historical context in which it emerges. Often it emerges as an opposing force to the prevailing ideas in a soceity, deliberately taking a different viewpoint. Art can convey complex ideas, emotions, and experiences in symbolic or aesthetic ways, and can serve as a means of expressing and preserving cultural information. Even when it opposes the culture it emerges from. Because any opposition is still an indication of the originally opposed. Artistic expression often triggers very primitive parts of the brain (appeal, esthethic sense) and is therefore valued not just for its cultural or abstract content, but for this more primitive and less abstract appeal and perserved even when the orignial ideas that prompted the art are forgotten or seen as alien by the natural progression of a culture. This way the information can still be passed down through generations and can provide insights into a culture's values, beliefs, and perspectives, serving as a distributed repository of cultural information. Where language and aand religion can be seen as ways preserving information in a living society. Art is a way of exchanging between societies that are vastly different.
 
-In all these cases, emergentism recognizes that religion, language, and art are not isolated phenomena, but rather interconnected and distributed ways in which cultural information is preserved, transmitted, and shaped within a society or culture. These forms of expression can evolve and emerge over time as a result of complex interactions among individuals and communities, and can play a significant role in shaping cultural identities, beliefs, and practices.
+In all these cases, emergentism recognizes that religion, language, and art are not isolated phenomena (or even exist as "ding an sich") , but rather interconnected and distributed ways in which cultural information is preserved, transmitted, and shaped within a society or culture. These forms of expression can evolve and emerge over time as a result of complex interactions among individuals and communities, and can play a significant role in shaping cultural identities, beliefs, and practices.
+
