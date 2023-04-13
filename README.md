@@ -1,8 +1,8 @@
 <dl>
   <dt>TLDR</dt>
   <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content. The summaries in this piece are written by GPT3.5, because the author recognises the tendency of his comtemporaries to feel he is wordy and lenghty and wishes to accomodate them.</dd>
-   <dt>TS;NN<?dt>
- <dd>Too Short; No nuance, is the opposite of TLDR. The original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
+   <dt>TS;NR<?dt>
+ <dd>Too Short; Nuance required, is the opposite of TLDR. The original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
 </dl>
 
 
@@ -10,12 +10,12 @@
 ## TLDR 
 Emergentism challenges reductionism by embracing complexity and recognizing the subjective nature of reality shaped by cultural conditioning. It can be seen as a scientific attitude, a non-magical holistic approach to religion, a cinematic/artistic form, or an architectural movement. It views religion, language, and art as ways of preserving and distributing cultural information. The image of Yggdrasil symbolizes the interconnectedness of different cultural conditioning. Language is fundamental to human culture and communication, while religion serves as a way of preserving cultural information. Emergentism emphasizes the subjective nature of reality and challenges absolute truths.
 
-## TS;NN
+## TS;NR
 ## expressions of emergentism
 ### TLDR:
 Emergentism is a multifaceted concept that can be seen as a worldview, scientific attitude, religion, or artform. It challenges the idea of factual reality, acknowledging the symbolic nature of human thinking. Cultural conditioning shapes our perception of reality, including concepts of right and wrong, truth and falsehood. Yggdrasil, a mythical tree in Norse mythology, symbolizes emergentism with roots representing fear of dissolution and branches representing incompatible cultural conditioning. Emergentism invites us to embrace being wrong, acknowledge complexity, and constantly evolve our understanding.
 
-### TS;NN
+### TS;NR
 Emergentism is a lot, but most of all it is not a copyrighted work, mostly because this idea is not finished, it´s wrong and it can never be finished and will always be wrong..
 
 - It can be seen as a worldview, where everything that humans do or are involved in is an expression of emergentism.
@@ -53,7 +53,7 @@ In the branches of Yggdrasil lay nine worlds that were constanly at war with eac
 ### TLDR
 Emergentism sees religion, language, and art as interconnected means of preserving and distributing cultural information. Religion involves belief systems, rituals, and practices passed down through generations. Language is a fundamental aspect of human culture, facilitating communication and symbolizing information. Art reflects cultural context, conveying complex ideas and emotions. These forms of expression are not isolated, but intertwined and shaped through interactions among individuals and communities. They serve as repositories of cultural information, shaping identities, beliefs, and practices. Art can also bridge gaps between different societies. Emergentism recognizes the dynamic and evolving nature of these phenomena in shaping societies and cultures.
 
-### TS;NN
+### TS;NR
 Emergentism views religion, language, and art as ways in which information is preserved and distributed throughout history or within a society or culture. Here's a brief explanation for each aspect:
 
 Religion: Religion often involves belief systems, rituals, and practices that are passed down through generations and shape the worldview, values, and behaviors of a community. These beliefs and practices are typically distributed (evangelism and initiation) among the members of the community through oral traditions, scriptures, teachings, ceremonies, and other means. Religion can serve as a way of preserving and transmitting cultural information, such as moral codes, explanations of the natural world (kosmogony), and ideas about hoe to view life, a possible meaning of life (that created cultural patterns that are viewed as beneficial) and an attitude toward life and death, like the possible existence of an afterlife..
@@ -68,7 +68,7 @@ In all these cases, emergentism recognizes that religion, language, and art are 
 ### TLDR
 Emergentism is a philosophical worldview that recognizes knowledge and understanding as unattainable goals, evolving through collective efforts from diverse perspectives. It acknowledges biases, including cultural, parental, ancestral, and personal traumas, which can influence perspectives. However, emergentism emphasizes self-awareness, critical thinking, and mindfulness to mitigate biases. Biases are inherent in human cognition, but an emergentist can strive to minimize their impact by being transparent, acknowledging limitations, and seeking feedback from diverse perspectives. By doing so, emergentists can make meaningful contributions while actively mitigating biases.
 
-### TS;NN
+### TS;NR
 Emergentism, as a philosophical perspective or worldview, recognizes
 that knowledge and understanding are ultimately a unattainable goal and 
 necessarily evolves through collective efforts of people
@@ -121,7 +121,7 @@ Limitations:
  - Patent use
  - Warranty
 
-### TS;NN
+### TS;NR
 Because of the epoch we the author finds himself in and because of the way "law" and "copyright"is now regarded and structured, the author feels a need to be very precise in the license of these ideas. Therefor the whole of this document is in the public domain and seen as "beyond copyright".
 
 Emergentism, as a worldview or philosophical perspective, emphasizes the collaborative and evolving nature of human knowledge and understanding. Also it recognises that the ultimate goal of understanding cannot be reached because of the nature of understanding. So a self-respecting work can never be finished or closed. It recognizes that knowledge and ideas emerge and evolve through collective efforts of people from different cultures, backgrounds, and perspectives and can ALWAYS be improved or at least adapter to cultural or personal needs. This has to do with the emergentist view of optimization (there is no "best way", without a very clear optimizational context, there can only the most effective way to reach some very well documented goal, given a very well documented set of existing universe)
