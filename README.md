@@ -10,7 +10,7 @@
 ## TLDR 
 Emergentism challenges reductionism by embracing complexity and recognizing the subjective nature of reality shaped by cultural conditioning. It can be seen as a scientific attitude, a non-magical holistic approach to religion, a cinematic/artistic form, or an architectural movement. It views religion, language, and art as ways of preserving and distributing cultural information. The image of Yggdrasil symbolizes the interconnectedness of different cultural conditioning. Language is fundamental to human culture and communication, while religion serves as a way of preserving cultural information. Emergentism emphasizes the subjective nature of reality and challenges absolute truths.
 
-
+## TS;NN
 ## expressions of emergentism
 ### TLDR:
 Emergentism is a multifaceted concept that can be seen as a worldview, scientific attitude, religion, or artform. It challenges the idea of factual reality, acknowledging the symbolic nature of human thinking. Cultural conditioning shapes our perception of reality, including concepts of right and wrong, truth and falsehood. Yggdrasil, a mythical tree in Norse mythology, symbolizes emergentism with roots representing fear of dissolution and branches representing incompatible cultural conditioning. Emergentism invites us to embrace being wrong, acknowledge complexity, and constantly evolve our understanding.
