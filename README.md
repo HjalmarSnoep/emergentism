@@ -71,9 +71,17 @@ In all these cases, emergentism recognizes that religion, language, and art are 
 
 ## License
 ### TLDR
-Creative commons zero , uiversal 1.1 (look at the LICENSE TEXT for legal, basically: use and share)
-The author finds it necessary to be precise in licensing their ideas due to the current state of law and copyright. Emergentism emphasizes collaborative and evolving nature of knowledge, acknowledging that understanding is never truly complete. Creative Commons license is important for emergentism as it promotes collaboration, sharing, and openness, countering biases of current laws. It facilitates idea exchange, encourages participation, and fosters a sense of collective effort in pursuit of knowledge. In summary, Creative Commons aligns with the collaborative and inclusive nature of emergentism, enabling open exchange of ideas and fostering collective development of knowledge.
-
+Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
+Permissions:
+ - Distribution
+ - Private use
+ - Modification
+Limitations:
+ - Commercial use
+ - Liability
+ - Trademark use
+ - Patent use
+ - Warranty
 ### TW;DW
 Because of the epoch we the author finds himself in and because of the way "law" and "copyright"is now regarded and structured, the author feels a need to be very precise in the license of these ideas. Therefor the whole of this document is in the public domain and seen as "beyond copyright".
 
