@@ -1,6 +1,6 @@
 <dl>
   <dt>TLDR</dt>
-  <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content, these summaries written by GPT3.5, because the author recognises the tendency of his comtemporaries to feel he is wordy and lenghty.</dd>
+  <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content. The summaries in this piece are written by GPT3.5, because the author recognises the tendency of his comtemporaries to feel he is wordy and lenghty and wishes to accomodate them.</dd>
    <dt>TS;NN<?dt>
  <dd>Too Short; No nuance, is the opposite of TLDR. The original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
 </dl>
