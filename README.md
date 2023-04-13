@@ -39,9 +39,9 @@ The whole idea of right and wrong is an artifact of the human brain, which tends
 - the ideas that things exist and that they can be placed on a range of spectra is an artifact of the human brain (waterfall hinking)
 -the idea that things can be true (benificial for reasoning, so good) or false (not to be regarded when reasoning, so bad) are artifacts of the human brain as are more nuanced versions of this: significant and unsignificant.
 
-,but WHAT is right or wrong (morals) is cultural conditioning.
--but where things are placed and in what spectrum (context) they are seen is cultural conditioning
--but what is true and false is cultural conditioning.
+- but WHAT is right or wrong (morals) is cultural conditioning.
+- but where things are placed and in what spectrum (context) they are seen is cultural conditioning
+- but what is true and false is cultural conditioning.
 
 The image of Yggdrasil is seen as one of the first emergentist images.
 The roots of the tree lie in Niflheim, a cold place where dead warriors go, that don´t go to walhalla, later explained as a hell, ruled over by the godess Hell and seen as a punishment for vikings that weren´t brave (the punishemnt of dissolution) the method of dissolution for the vikings was ice, they stood around in freezing blood, under the ribs of the word-serpent. Later the prefered methos of dissolution was fire.. But in either case it is the fear of the living for the state of deadness.
