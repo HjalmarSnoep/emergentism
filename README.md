@@ -64,3 +64,23 @@ Art: Art, in its various forms such as visual arts, music, literature, and dance
 
 In all these cases, emergentism recognizes that religion, language, and art are not isolated phenomena (or even exist as "ding an sich") , but rather interconnected and distributed ways in which cultural information is preserved, transmitted, and shaped within a society or culture. These forms of expression can evolve and emerge over time as a result of complex interactions among individuals and communities, and can play a significant role in shaping cultural identities, beliefs, and practices.
 
+## Trauma
+### TLDR
+
+### TW;DW
+
+## License
+### TLDR
+Creative commons zero , uiversal 1.1 (look at the LICENSE TEXT for legal, basically: use and share)
+The author finds it necessary to be precise in licensing their ideas due to the current state of law and copyright. Emergentism emphasizes collaborative and evolving nature of knowledge, acknowledging that understanding is never truly complete. Creative Commons license is important for emergentism as it promotes collaboration, sharing, and openness, countering biases of current laws. It facilitates idea exchange, encourages participation, and fosters a sense of collective effort in pursuit of knowledge. In summary, Creative Commons aligns with the collaborative and inclusive nature of emergentism, enabling open exchange of ideas and fostering collective development of knowledge.
+
+### TW;DW
+Because of the epoch we the author finds himself in and because of the way "law" and "copyright"is now regarded and structured, the author feels a need to be very precise in the license of these ideas. Therefor the whole of this document is in the public domain and seen as "beyond copyright".
+
+Emergentism, as a worldview or philosophical perspective, emphasizes the collaborative and evolving nature of human knowledge and understanding. Also it recognises that the ultimate goal of understanding cannot be reached because of the nature of understanding. So a self-respecting work can never be finished or closed. It recognizes that knowledge and ideas emerge and evolve through collective efforts of people from different cultures, backgrounds, and perspectives and can ALWAYS be improved or at least adapter to cultural or personal needs. This has to do with the emergentist view of optimization (there is no "best way", without a very clear optimizational context, there can only the most effective way to reach some very well documented goal, given a very well documented set of existing universe)
+
+Creative Commons license, which is a type of open license that allows for sharing and distribution of creative works with certain permissions and conditions, is important for emergentism as it promotes the principles of collaboration, sharing, and openness. And counteracts the biases of law as it is viewed thses days, by using law. Playing their game, but better than them, the eternal plight of the serious emergentist. By using a Creative Commons license, individuals or communities can make their work available to others for reuse, adaptation, and further development, fostering a collaborative and inclusive approach to knowledge creation and dissemination.
+
+The use of Creative Commons license can help to facilitate the exchange of ideas, encourage participation, and enable diverse contributions to the emergentist discourse without the limitations of copyright or proprietary restrictions. It can also promote the idea that emergentism is an ongoing, collective effort of humanity, transcending cultural boundaries and fostering a sense of shared ownership and collaboration in the pursuit of knowledge and understanding.
+
+In summary, Creative Commons license can be significant for emergentism as it aligns with the collaborative and inclusive nature of this worldview, allowing for the open exchange of ideas and fostering a sense of collective effort towards the ongoing development of knowledge and understanding.
