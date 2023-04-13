@@ -72,6 +72,8 @@ In all these cases, emergentism recognizes that religion, language, and art are 
 ## License
 ### TLDR
 Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 Permissions:
  - Distribution
  - Private use
@@ -82,6 +84,7 @@ Limitations:
  - Trademark use
  - Patent use
  - Warranty
+
 ### TW;DW
 Because of the epoch we the author finds himself in and because of the way "law" and "copyright"is now regarded and structured, the author feels a need to be very precise in the license of these ideas. Therefor the whole of this document is in the public domain and seen as "beyond copyright".
 
