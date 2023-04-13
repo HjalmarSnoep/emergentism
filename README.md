@@ -1,13 +1,7 @@
-<dl>
-  <dt>TLDR</dt>
-  <dd>TLDR stands for "Too Long; Didn't Read." It is a common internet acronym used to provide a brief summary or synopsis of a lengthy piece of content. The summaries in this piece are written by GPT3.5, because the author recognises the tendency of his comtemporaries to feel he is wordy and lenghty and wishes to accomodate them.</dd>
-   <dt>TS;NR<?dt>
- <dd>Too Short; Nuance required, is the opposite of TLDR. The original, hopefully more nuanced text, with all the cultural biases I have not been able to shed.</dd>. 
-</dl>
+
 
 
 # emergentism
-## TLDR 
 Emergentism is a lot of things, but most of all it is not a copyrighted work. Mostly because this idea is not finished, it's wrong and it can never be finished and will always be wrong.
 
 Its emphasis is on entropy as an undeniable main force in the universe (second law of thermodynamics, Kali). And biological complexity deriving from very simple opposing forces (strange attractors from linear equstions, see visual proof repository by same author) and the hallucination of reality by "substantialising" or grouping similar phenomena into "things" and "ëvents", that are felt to be undeniable. Deriving abstract reasoning from the assumption of this undeniability created time, space and a person (an I). This creates an ego as a public persona. 
@@ -45,6 +39,8 @@ The image of Yggdrasil is seen as one of the first emergentist images.
 The roots of the tree lie in Niflheim, a cold place where dead warriors go, that don't go to Valhalla, later explained as a hell, ruled over by the goddess Hel and seen as a punishment for Vikings that weren't brave (the punishment of dissolution). The method of dissolution for the Vikings was ice, they stood around in freezing blood, under the ribs of the word-serpent. Later the preferred method of dissolution was fire. But in either case, it is the fear of the living for the state of deadness.
 
 In the branches of Yggdrasil lay nine worlds that were constantly at war with each other. This is a recognition of people grouping together and culturally conditioning each other, but the cultural conditioning turning out to be incompatible, and the people in a particular "world" holding their conditioning as "true" and "good" in high regard.
+
+beyond this point should be integrated in the wiki :)
 
 ## Religion, culture, language and art
 ### TLDR
