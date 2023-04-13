@@ -28,7 +28,7 @@ The roots of the tree lie in Niflheim, a cold place where dead warriors go, that
 
 In the branches of Yggdrasil lay nine worlds that were constanly at war with eacht other. This is a recognistion of people grouping together and culturally conditioning each other, but the cultural conditioning turning out to be incompatible and the people in e particular "world" holding their conditioning as "true" and "true" in high regard.
 
-## Rewritten into simple language by Chat GPT3.5:
+## Summary written Chat GPT3.5:
 Emergentism is a way of looking at reality that challenges reductionism, which is the belief that everything can be explained by breaking it down into smaller parts. Emergentism acknowledges that reality is complex and cannot be fully understood through reductionist approaches.
 
 Emergentism can be seen in different ways, such as a scientific attitude that embraces complexity, a cinematic stream of thought influenced by movies like The Matrix, a non-magical holistic approach to religion, a graphic art form that combines painting and AI-augmented imagery, or an architectural movement inspired by biomorphism.
